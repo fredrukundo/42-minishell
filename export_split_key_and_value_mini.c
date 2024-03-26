@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   export_split_key_and_value_mini.c                  :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: hel-haia <hel-haia@student.42.fr>          +#+  +:+       +#+        */
+/*   By: frukundo <frukundo@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/02/28 03:13:08 by hel-haia          #+#    #+#             */
-/*   Updated: 2024/02/28 03:13:09 by hel-haia         ###   ########.fr       */
+/*   Created: 2024/03/26 20:05:52 by frukundo          #+#    #+#             */
+/*   Updated: 2024/03/26 20:05:53 by frukundo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
